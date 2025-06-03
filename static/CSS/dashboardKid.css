@@ -4,7 +4,7 @@ body {
       background: linear-gradient(to bottom, #b3e5fc, #fff);
       position: relative; /* Para posicionar el logo fuera del div */
       background-image: url('/static/img/dashboard_niño_interface.png');
-      background-size: 1375px 650px;
+      background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
       background-attachment: fixed;
@@ -146,7 +146,7 @@ body {
     /*imagen del niño*/
     .Niño {
         position: relative;
-        left: 550px;
+        left: 750px;
         top: 100px;
         height: 400px;
         width: 300px;
